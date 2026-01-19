@@ -101,6 +101,7 @@ git log --all --full-history -- socks/*.py
 pip install uncompyle6
 uncompyle6 socks/__pycache__/main.cpython-314.pyc > socks/main.py
 ```
+⚠️ **PERINGATAN:** Hasil decompile tidak sempurna dan bisa berbeda dari source asli. WAJIB review sebelum dijalankan!
 
 ---
 

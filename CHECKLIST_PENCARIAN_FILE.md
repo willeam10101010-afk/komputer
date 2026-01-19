@@ -125,7 +125,12 @@ uncompyle6 socks/__pycache__/main.cpython-314.pyc > socks/main.py
 uncompyle6 socks/__pycache__/socks5_monitor.cpython-315.pyc > socks/socks5_monitor.py
 ```
 
-⚠️ **CATATAN:** Hasil decompile tidak sempurna (missing comments, formatting buruk)
+⚠️ **PERINGATAN PENTING:**
+- Hasil decompile TIDAK sempurna (missing comments, formatting buruk, variable names mungkin berubah)
+- Kode hasil decompile bisa berbeda dari source code asli
+- **WAJIB review kode hasil decompile sebelum dijalankan** untuk memastikan tidak ada masalah security
+- Jangan langsung percaya hasil decompile - test dengan hati-hati
+- Lebih baik cari source code asli atau buat ulang
 
 ### Opsi 2: Buat Ulang Berdasarkan Requirements
 Lihat packages di virtual environment untuk mengetahui fungsi:

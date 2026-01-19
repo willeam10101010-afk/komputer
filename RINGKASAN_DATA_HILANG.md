@@ -5,8 +5,9 @@
 ### 1. Folder **WEB3/**
 - ❌ **File Python utama HILANG** (main.py atau sejenisnya)
 - ✅ Ada .env dan virtual environment dengan packages Google Sheets
-- 💡 **Kemungkinan fungsi:** Bot atau script untuk Google Sheets/Web3
-- 🔍 **Cari file:** `main.py`, `gsheet_bot.py`, `web3_bot.py`, `app.py`
+- 💡 **Kemungkinan fungsi:** Bot atau script untuk Google Sheets automation
+- ⚠️ **CATATAN:** Meskipun namanya "WEB3", berdasarkan dependencies (gspread) ini kemungkinan untuk Google Sheets, BUKAN blockchain Web3
+- 🔍 **Cari file:** `main.py`, `gsheet_bot.py`, `sheets_bot.py`, `app.py`
 
 ### 2. Folder **socks/**
 - ❌ **`main.py` HILANG** (ada bukti: main.cpython-314.pyc)

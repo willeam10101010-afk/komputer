@@ -54,7 +54,7 @@ File yang ada:
   - `gspread` - Untuk Google Sheets
   - `google-auth-oauthlib` - Untuk autentikasi Google
   - `requests` - Untuk HTTP requests
-- Kemungkinan ini adalah project untuk interaksi dengan Google Sheets atau Web3
+- **CATATAN:** Nama folder "WEB3" mungkin misleading - berdasarkan dependencies (gspread), ini kemungkinan untuk Google Sheets automation, BUKAN blockchain Web3
 - **File Python utama HILANG dari komputer Anda**
 
 **Kemungkinan nama file yang hilang:**
