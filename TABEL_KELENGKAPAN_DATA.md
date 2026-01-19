@@ -81,24 +81,24 @@ requests → HTTP requests
 ## Prioritas Tindakan
 
 ### 🔴 PRIORITAS TINGGI (Segera)
-1. ✅ **Cari file Python di WEB3/**
-   - Kemungkinan: main.py, gsheet_bot.py, web3_bot.py
+1. [ ] **Cari file Python di WEB3/**
+   - Kemungkinan: main.py, gsheet_bot.py, sheets_bot.py
    - Lokasi pencarian: Backup, Downloads, Recycle Bin
 
-2. ✅ **Cari file Python di socks/**
+2. [ ] **Cari file Python di socks/**
    - main.py
    - socks5_monitor.py
    - Lokasi pencarian: Backup, Downloads, Recycle Bin
    - Alternatif: Decompile dari .pyc (tidak ideal)
 
 ### 🟡 PRIORITAS SEDANG
-3. ⚠️ **Review folder Project/**
+3. [ ] **Review folder Project/**
    - Tentukan apakah masih diperlukan
    - Hapus jika tidak diperlukan
    - Mulai project atau restore jika diperlukan
 
 ### 🟢 PRIORITAS RENDAH (Opsional)
-4. ✅ **Setup auto-backup**
+4. [ ] **Setup auto-backup**
    - Pastikan auto-upload system berjalan
    - Review .gitignore
    - Backup regular ke cloud
