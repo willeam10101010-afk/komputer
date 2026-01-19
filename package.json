@@ -1,0 +1,16 @@
+{
+  "name": "komputer-auto-upload",
+  "version": "1.0.0",
+  "description": "Auto upload files to GitHub repository willeam10101010-afk/komputer",
+  "main": "auto-upload.js",
+  "scripts": {
+    "start": "node auto-upload.js",
+    "setup": "node setup.js"
+  },
+  "keywords": ["github", "auto-upload", "backup"],
+  "author": "willeam10101010-afk",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
